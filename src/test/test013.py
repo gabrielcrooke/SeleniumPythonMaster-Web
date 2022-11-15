@@ -19,6 +19,7 @@ from selenium.common.exceptions import TimeoutException
 from src.pages.Spotify_registro import Registro
 import json
 
+
 class Test_013(unittest.TestCase):
 
     def setUp(self):
@@ -27,9 +28,8 @@ class Test_013(unittest.TestCase):
         self.driver.maximize_window()
         self.driver.get('https://www.spotify.com/do/signup')
 
-
     def test_013(self):
-
+        pass
 
     def tearDown(self):
         time.sleep(10)
