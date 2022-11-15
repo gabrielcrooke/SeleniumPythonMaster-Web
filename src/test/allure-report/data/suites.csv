@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Sun Nov 13 09:37:24 CST 2022","Sun Nov 13 09:37:24 CST 2022","0","Ddeprecated","test005","Test005","","","test005",""
-"passed","Sun Nov 13 09:37:25 CST 2022","Sun Nov 13 09:37:54 CST 2022","28960","Ddeprecated","test017","Test_001","","","test_001","Se requiere visitar el sitio Google:</br>'
-Deseamos realizar algunas acciones</br></br></br>"
-"passed","Sun Nov 13 09:36:46 CST 2022","Sun Nov 13 09:37:13 CST 2022","26920","","test_003","test_004","","","test_004","Se requiere visitar el sitio GainInterView:</br>'
-Deseamos ingresar un numero en el textbox</br></br></br>"
-"passed","Sun Nov 13 09:37:14 CST 2022","Sun Nov 13 09:37:21 CST 2022","7111","Ddeprecated","test_007","Test_007","","","test_007",""

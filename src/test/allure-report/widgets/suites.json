@@ -1,1 +1,0 @@
-{"total":2,"items":[{"uid":"f37436d5e907d498e4624efec3b48728","name":"Ddeprecated","statistic":{"failed":0,"broken":0,"skipped":1,"passed":2,"unknown":0,"total":3}},{"uid":"a477a07690a678cb79608a61b84631c7","name":"test_003","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
