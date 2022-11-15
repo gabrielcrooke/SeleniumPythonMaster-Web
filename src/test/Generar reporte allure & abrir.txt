@@ -1,0 +1,11 @@
+Paso 1
+primero: cd C:\udemy.python.SeleniumFramework\src\test
+Segundo: allure generate allure-results --output .\allure-report --clean
+
+Paso 2
+allure open --port 5000
+
+
+Documentaicon para intalacion
+
+https://docs.qameta.io/allure-report/

@@ -1,0 +1,33 @@
+
+
+{
+  "Logo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//a[@class='Header__LogoContainer-nt28l4-2 gsMtiF']"
+  },
+
+  "Titulo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h2[@class=\"Type__TypeElement-goli3j-0 hvmNPy Header__Title-nt28l4-1 fKQPLB']"
+  },
+
+  "Email": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"email\"]"
+  },
+
+  "cEmail":{
+   "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"confirm\"]"
+  },
+
+  "Password":{
+   "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"password\"]"
+  },
+
+  "Apodo":{
+   "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id=\"displayname\"]"
+  }
+}
