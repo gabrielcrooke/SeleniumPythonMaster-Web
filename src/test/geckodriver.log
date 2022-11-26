@@ -739,3 +739,15 @@ JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILUR
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1669336501921	geckodriver	INFO	Listening on 127.0.0.1:53268
+1669336505016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile4br3So"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1669336510234	Marionette	INFO	Listening on port 53285
+1669336510329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1669336527490	Marionette	INFO	Stopped listening on port 53285
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
